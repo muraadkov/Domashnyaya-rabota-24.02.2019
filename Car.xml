@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Vehicle>
+ <Car>
+  <Body>Седан</Body>
+  <driveUnit>Передний</driveUnit>
+  <engineCapacity>1.4</engineCapacity>
+  <mark>Hyundai</mark>
+  <model>Accent</model>
+  <releaseDate>2018</releaseDate>
+ </Car>
+</Vehicle>
